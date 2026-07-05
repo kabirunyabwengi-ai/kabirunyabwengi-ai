@@ -49,7 +49,7 @@ to work on paper.
 
 | Project | Description | Stack |
 |---|---|---|
-| [CareerDataSolutions](https://careerdatasolutions.com) | Full company website | React · Vite · Vercel |
+| [CareerDataSolutions](https://careerdatasolutions.com) | Full company website |
 | Power BI Dashboards | 7-department operational coverage | Power BI · Excel · SQL |
 | Career Documents | ATS-optimized CVs for local and international markets | — |
 
@@ -59,14 +59,12 @@ to work on paper.
 
 | Track | Package | Price |
 |---|---|---|
-| Data Analytics | Insight Starter | KES 18,000 / $190 USD |
-| Data Analytics | Analytics Pro | KES 45,000 / $380 USD |
+| Data Analytics | Insight Starter | KES 20,000 / $155 USD |
+| Data Analytics | Analytics Pro | KES 45,000 / $350 USD |
 | Data Analytics | Enterprise Suite | KES 90,000 / $700 USD |
-| Career Services | Career Kickstart | KES 4,500 / $75 USD |
-| Career Services | Career Builder | KES 8,500 / $130 USD |
-| Career Services | Career Pro | KES 15,000 / $195 USD |
-| Career Services | Career Accelerator | KES 25,000 / $295 USD |
-| Career Services | Executive Edge | KES 42,000 / $450 USD |
+| Career Services | Career Kickstart | KES 5,500 / $45 USD |
+| Career Services | Career Builder | KES 9,500 / $75 USD |
+| Career Services | Career Pro | KES 15,000 / $120 USD |
 
 Full details at [careerdatasolutions.com/packages](https://careerdatasolutions.com/packages)
 
@@ -75,33 +73,11 @@ Full details at [careerdatasolutions.com/packages](https://careerdatasolutions.c
 ## Skills & Tools
 ```
 Power BI · Excel · SQL · DAX · Power Query · VBA
-React · Vite · JavaScript · HTML · CSS
-Vercel · GitHub · Resend · Cal.com
+GitHub · Cal.com
 ATS Optimization · LinkedIn Strategy · Career Coaching
 ```
 ---
 
-## Client Results
-
-> "The Power BI dashboard Kabiru built for our operations team transformed
-> how our managers make decisions. For the first time, we had real-time
-> visibility across the department."
->
-> **Amina Ochieng** · Operations Director, Nairobi NGO
-
-> "I had been applying to UK healthcare roles for 6 months with zero
-> responses. After my CV and LinkedIn were optimized, I had 3 interview
-> invitations within 2 weeks."
->
-> **James Mwangi** · Healthcare Professional, targeting UK
-
-> "The Excel automation work alone saved our finance team roughly 15 hours
-> a week in manual reporting. The claims processing system Kabiru built
-> now runs itself."
->
-> **Fatuma Kiptoo** · Finance Manager, Insurance Firm, Kenya
-
----
 
 ## Work With Me
 
